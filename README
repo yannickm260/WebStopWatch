@@ -1,0 +1,61 @@
+# Web Stopwatch
+
+This project is a simple stopwatch application built with HTML, CSS (using TailwindCSS via CDN), and JavaScript. It allows users to start, stop, and reset a stopwatch, displaying hours, minutes, seconds, and milliseconds.
+
+## Features
+
+- **Start**: Begins the stopwatch.
+- **Stop**: Pauses the stopwatch.
+- **Reset**: Resets the stopwatch to zero.
+
+## Technologies Used
+
+- **HTML**: Page structure.
+- **CSS (TailwindCSS)**: Styling the components with utility classes.
+- **JavaScript**: Handling the stopwatch logic (start, stop, reset).
+
+## Installation
+
+1. Clone this repository to your local machine:
+
+    ```bash
+    git clone https://github.com/yannickm260/your-repo.git
+    ```
+
+2. Navigate to the project directory:
+
+    ```bash
+    cd your-repo
+    ```
+
+3. Open the `index.html` file in your browser to see the stopwatch in action.
+
+## Project Structure
+
+- **index.html**: Contains the HTML structure of the stopwatch.
+- **app.js**: Contains the JavaScript logic for starting, stopping, and resetting the stopwatch.
+- **Tailwind CSS**: Used via CDN for styling the stopwatch.
+
+## Interface Example
+
+The stopwatch appears centered on the page with three buttons:
+- **Start**: Starts the stopwatch.
+- **Stop**: Stops the stopwatch.
+- **Reset**: Resets the stopwatch to zero.
+
+The interface is simple, responsive, and styled with TailwindCSS.
+
+## Usage
+
+- **Start the stopwatch**: Click the **Start** button.
+- **Stop the stopwatch**: Click the **Stop** button.
+- **Reset the stopwatch**: Click the **Reset** button.
+
+## Screenshots
+
+![Screenshot of the stopwatch interface](./images/CaptureStopWatch.png)
+
+## Contributing
+
+Contributions are welcome! If you have any ideas for improving this project, feel free to create a pull request or open an issue.
+
