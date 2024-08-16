@@ -19,13 +19,13 @@ This project is a simple stopwatch application built with HTML, CSS (using Tailw
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/yannickm260/your-repo.git
+    git clone https://github.com/yannickm260/WebStopWatch.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd your-repo
+    cd WebStopWatch.git
     ```
 
 3. Open the `index.html` file in your browser to see the stopwatch in action.
